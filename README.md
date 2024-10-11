@@ -1,0 +1,1 @@
+# Determination-of-the-orientation-and-latitude-of-a-strapdown-INS-on-a-fixed-base
